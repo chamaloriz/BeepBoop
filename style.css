@@ -1,0 +1,19 @@
+body {
+  overflow-x: hidden;
+}
+
+.nav-item.active {
+  border-bottom-color: #9E614C;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+}
+
+@font-face {
+	font-family: 'Omega';
+	src: url(./fonts/Omega.ttf);
+}
+
+.titleTexte {
+  margin-top: 100px;
+  font-family: 'Omega';
+}
